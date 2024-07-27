@@ -1,10 +1,10 @@
-**"Flow" Modpack for Minecraft 1.20.1 (Fabric)**
+# **"Flow" Modpack for Minecraft 1.20.1 (Fabric)**
 
-**Description:**
+## **Description:**
 
 The "Flow" modpack is a carefully curated set of modifications for Minecraft, designed to enhance and enrich gameplay in version 1.20.1 on the Fabric platform. It caters to both survival enthusiasts and those who appreciate exploration, technology, magic, and aesthetic changes.
 
-**Main Features and Mechanics:**
+## **Main Features and Mechanics:**
 
 1. **Exploration and Structures:**
    - **YUNG's Better Fortresses, Ocean Monuments, Witch Huts, Desert Temples, Mineshafts, Strongholds, Jungle Temples:** These mods improve existing structures, adding new elements and challenges for exploration.
@@ -37,11 +37,11 @@ The "Flow" modpack is a carefully curated set of modifications for Minecraft, de
    - **Better Totems:** Improvements to Totems of Undying.
    - **Carry On:** The ability to carry blocks and entities.
 
-**Installation:**
+### **Installation:**
 The "Flow" modpack requires the installation of Fabric and Fabric API. Additionally, it is recommended to use Mod Menu for managing mods.
 
-**Summary:**
+### **Summary:**
 "Flow" is a versatile modpack that significantly expands the possibilities of playing Minecraft, offering a wealth of new structures, mechanical improvements, aesthetic changes, and optimizations. It is perfect for players seeking new challenges and experiences in both single-player and multiplayer modes.
 
 
-# For client version go to : [Flow Modpack](https://github.com/4Shage/Flow-modpack)
+## For client version go to : [Flow Modpack](https://github.com/4Shage/Flow-modpack)
