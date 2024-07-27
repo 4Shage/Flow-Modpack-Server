@@ -44,5 +44,4 @@ The "Flow" modpack requires the installation of Fabric and Fabric API. Additiona
 "Flow" is a versatile modpack that significantly expands the possibilities of playing Minecraft, offering a wealth of new structures, mechanical improvements, aesthetic changes, and optimizations. It is perfect for players seeking new challenges and experiences in both single-player and multiplayer modes.
 
 
-# For client version go to :
-[text](https://github.com/4Shage/Flow-modpack)
+# For client version go to : [Flow Modpack](https://github.com/4Shage/Flow-modpack)
